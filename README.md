@@ -26,7 +26,7 @@ DirectFisheye-GS brings native fisheye inputs to 3D Gaussian Splatting for wide-
 | :--- | :--- | :--- |
 | **[SuperSplat 4D](https://github.com/forgrabbit/supersplat4d)** | Extended PlayCanvas SuperSplat with dynamic Gaussian loading, playback, editing, and export; implemented `.sog4d` compression and browser interaction. | TypeScript · PlayCanvas · Python · [4D Source](https://github.com/forgrabbit/supersplat4d/tree/splat4d) · [Live Editor](https://supersplat4d.netlify.app/) |
 | **[THUAI8](https://github.com/forgrabbit/thuai-8)** | Led game framework and technical design; contributed to frontend, backend, and SDK development for agent matches and competition operations. A collaborative team project. | C# · Unity · C++ / Python SDK · [Team Repository](https://github.com/thuasta/thuai-8) |
-| **[EDCViewer3D](https://github.com/forgrabbit/EDCViewer3D-new)** | Contributed to a 3D visualization client for the Electronic Design Competition, including scene objects, player state, and interaction displays. A collaborative team project. | Unity · C# · WebSocket |
+| **[Gaussian Sorting Profiling](https://github.com/forgrabbit/engine/tree/profiling)** | Added timing instrumentation across the main thread and Gaussian sorting worker in a PlayCanvas Engine development fork; fixed handling of empty sort mappings. | JavaScript · PlayCanvas · Web Workers · [Changes](https://github.com/forgrabbit/engine/compare/7aba7cb...profiling) |
 
 Earlier research prototype: [Gaussian Splatting Depth](https://github.com/forgrabbit/gaussian-splatting-depth), a depth-rendering extension of the original 3DGS pipeline.
 
